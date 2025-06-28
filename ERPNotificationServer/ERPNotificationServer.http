@@ -1,0 +1,6 @@
+@ERPNotificationServer_HostAddress = http://localhost:5161
+
+GET {{ERPNotificationServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
